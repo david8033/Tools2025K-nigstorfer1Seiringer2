@@ -3,6 +3,8 @@ public void thisIsaNewMethod() {
     System.out.println("This is a new test line in the file.")
     x=5;
     System.out.println("The value of x is: " + x);
+    int y; 
+    int z;
 }
 public class HelloWorld {
     public static void main(String[] args) {
