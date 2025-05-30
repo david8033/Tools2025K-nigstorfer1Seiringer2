@@ -1,6 +1,7 @@
 public void thisIsaNewMethod() {
     int x;
     System.out.println("This is a new test line in the file.")
+    int y; 
 }
 public class HelloWorld {
     public static void main(String[] args) {
